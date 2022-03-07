@@ -8,3 +8,4 @@ in deze branch verschillend van de MAIN
 nog een test met die commit en pull requests !
 
 weer via de Desktop app
+en nu via Visual Studio Code
